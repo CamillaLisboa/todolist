@@ -1,5 +1,7 @@
-# lp
+# To Do List
 CRUD para trabalho de Linguagem de Programação
+
+Criar uma lista de tarefas onde pode adicionar várias tarefas e marcá-las como concluidas ou não.
 
 exemplo de CRUD com banco de dados
 https://dev.to/driuzim/criando-um-crud-simples-com-python-opl
